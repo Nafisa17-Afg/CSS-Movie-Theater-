@@ -1,0 +1,8 @@
+.bg{
+    background-color: blueviolet;
+    font-size: 24px;
+}
+#par:hover{
+    color: #000;
+    border:solid 4px black
+}
